@@ -27,5 +27,7 @@ Example 3:
 
 #Solution
 
+# to be practiced for video demo on blog
+
 
 
