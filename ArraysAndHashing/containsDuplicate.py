@@ -28,6 +28,6 @@ Example 3:
 #Solution
 
 # to be practiced for video demo on blog
-
+# Practiced with Shure sm7b and focurite 2i2
 
 
