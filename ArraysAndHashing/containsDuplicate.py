@@ -30,4 +30,6 @@ Example 3:
 # to be practiced for video demo on blog
 # Practiced with Shure sm7b and focurite 2i2
 
+# Will need to study C# in  coming weeks
+
 
