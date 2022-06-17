@@ -32,4 +32,8 @@ Example 3:
 
 # Will need to study C# in  coming weeks
 
+# Two interviews, both on june 22
+
+
+
 
